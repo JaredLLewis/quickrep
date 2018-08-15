@@ -1,2 +1,0 @@
-# quickrep
-quik!
